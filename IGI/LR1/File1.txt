@@ -1,3 +1,2 @@
 File for LR1
 Add string for examination
-Новое изменение в File1
